@@ -37,7 +37,7 @@ Whether it's building full-stack apps or training in MMA, I'm all about growth, 
 ## 🚀 Tech Stack
 
 - Languages: `Python`, `JavaScript`, `HTML`, `CSS`
-- Tools: `Git`, `VS Code`, `Excel`, `Pycharm` , 'Intellij'
+- Tools: `Git`, `VS Code`, `Excel`, `Pycharm` , `Intellij`
 - Learning: `Backend APIs`, `Database integration`, `AI basics`
 
 ## 📫 Let's Connect
