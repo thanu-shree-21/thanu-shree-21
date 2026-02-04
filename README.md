@@ -2,7 +2,7 @@
 
 💻 Developer by passion | 🥋 MMA practitioner by discipline
 
-I love solving problems with code and pushing my limits — both in tech and on the mat. 
+I love solving problems with code and pushing my limits both in tech and on the mat. 
 Whether it's building full-stack apps or training in MMA, I'm all about growth, focus, and resilience.
 
 ---
@@ -11,7 +11,7 @@ Whether it's building full-stack apps or training in MMA, I'm all about growth, 
 
 - 💡 I enjoy building projects from scratch and learning new technologies.
 - 🤖 Interested in backend development, automation, and AI.
-- 🥊 MMA keeps me grounded — it teaches me the same discipline I apply to coding.
+- 🥊 MMA keeps me grounded it teaches me the same discipline I apply to coding.
 - 🧘 I believe balance between mind and body builds stronger creators.
 
 ---
@@ -37,7 +37,7 @@ Whether it's building full-stack apps or training in MMA, I'm all about growth, 
 ## 🚀 Tech Stack
 
 - Languages: `Python`, `JavaScript`, `HTML`, `CSS`
-- Tools: `Git`, `VS Code`, `GitHub`, `Pycharm` , 'Intellij'
+- Tools: `Git`, `VS Code`, `Excel`, `Pycharm` , 'Intellij'
 - Learning: `Backend APIs`, `Database integration`, `AI basics`
 
 ## 📫 Let's Connect
